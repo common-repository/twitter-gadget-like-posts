@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: twitter-gadget-like-posts\n"
+"POT-Creation-Date: 2012-09-22 14:23+0900\n"
+"PO-Revision-Date: 2012-09-22 14:23+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\Users\\吉田哲也\\Desktop\\twitter-gadget-like-"
+"posts\n"
+
+#: C:\Users\gcNç\Desktop\twitter-gadget-like-posts/twitter-gadget-like-posts.php:32
+msgid "Twitter Gadget Like Posts"
+msgstr "「ツイッターガジェット」風な投稿表示"
+
+#: C:\Users\gcNç\Desktop\twitter-gadget-like-posts/twitter-gadget-like-posts.php:138
+msgid "Title"
+msgstr "タイトル"
+
+#: C:\Users\gcNç\Desktop\twitter-gadget-like-posts/twitter-gadget-like-posts.php:140
+msgid "Height"
+msgstr "全体高さ"
+
+#: C:\Users\gcNç\Desktop\twitter-gadget-like-posts/twitter-gadget-like-posts.php:142
+msgid "Post Number"
+msgstr "取得投稿数"
+
+#: C:\Users\gcNç\Desktop\twitter-gadget-like-posts/twitter-gadget-like-posts.php:144
+msgid "Change Interval (second)"
+msgstr "表示間隔（秒）"
+
+#: C:\Users\gcNç\Desktop\twitter-gadget-like-posts/twitter-gadget-like-posts.php:146
+msgid "Post String Length"
+msgstr "本文表示文字数"
+
+#: C:\Users\gcNç\Desktop\twitter-gadget-like-posts/twitter-gadget-like-posts.php:149
+msgid "Link Color"
+msgstr "リンク文字色"
+
+#: C:\Users\gcNç\Desktop\twitter-gadget-like-posts/twitter-gadget-like-posts.php:152
+msgid "Post String Color"
+msgstr "本文文字色"
+
+#: C:\Users\gcNç\Desktop\twitter-gadget-like-posts/twitter-gadget-like-posts.php:155
+msgid "Background Color"
+msgstr "背景色"
+
+#: C:\Users\gcNç\Desktop\twitter-gadget-like-posts/twitter-gadget-like-posts.php:158
+msgid "Border Color"
+msgstr "枠色"
+
+#: C:\Users\gcNç\Desktop\twitter-gadget-like-posts/twitter-gadget-like-posts.php:160
+msgid "Color Test"
+msgstr "色の確認"
+
+#: C:\Users\gcNç\Desktop\twitter-gadget-like-posts/twitter-gadget-like-posts.php:167
+msgid "Category"
+msgstr "カテゴリー"
